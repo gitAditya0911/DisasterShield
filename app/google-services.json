@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285524004123",
+    "project_id": "disastersheild-86979",
+    "storage_bucket": "disastersheild-86979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285524004123:android:1416d4e77ec587baecd7be",
+        "android_client_info": {
+          "package_name": "com.decode.disastershield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYKkMLPkrUUHsQYIwtmh-FC71R1lSQnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
